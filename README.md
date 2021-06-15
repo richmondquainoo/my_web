@@ -1,5 +1,5 @@
-# Single Page Website
-#### This is a simple website project I designed
+# DataRun Website
+#### This is a single page website project I designed
 
 ## Introduction
 #### Frontend Web development with HTML and CSS
